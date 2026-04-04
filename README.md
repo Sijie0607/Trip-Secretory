@@ -58,48 +58,9 @@ flowchart LR
 
 ---
 
-## 4. 如何在 README 里挂「视频演示」
 
-GitHub 的 Markdown **不适合直接内嵌大体积视频文件**。推荐做法（择一即可）：
 
-1. **外链**：将成片上传到 [哔哩哔哩](https://www.bilibili.com)、[Loom](https://www.loom.com) 或 YouTube，在下方「正式演示视频」处替换为你的链接。  
-2. **Release 附件**：在 GitHub Release 里上传 `demo.mp4`，README 里写「见 Release v0.1.0 附件」。  
-3. **动图**：用简短 GIF（或 `![封面](docs/demo-cover.png)`）放首屏，完整视频仍用外链。
-
-### 正式演示视频
-
-- **链接**：`（在此粘贴你的视频 URL）`  
-- **对应分镜**：与上文「演示 / 录屏脚本」一致，便于观众按章节跳转。
-
----
-
-## 5. 本地运行
-
-```bash
-cd trip-open-prototype
-npm install
-npm run dev
-```
-
-浏览器访问：**http://localhost:3000**（脚本中已绑定 `0.0.0.0`，便于局域网设备预览）。
-
-- 生产构建：`npm run build && npm run start`  
-- 插画资源同步（如需）：`npm run illustrations:sync`
-
----
-
-## 6. 仓库结构（与演示相关）
-
-| 路径 | 说明 |
-|------|------|
-| `components/trip-open-v2/TripOpenV21Prototype.tsx` | V2.1 主流程：地图、盲盒、结果页、刷新点、预订 |
-| `components/trip-open-v2/TripOpenV2Prototype.tsx` | V2 参考实现 |
-| `public/data/travel-illustration-stems.json` | 插画 STEM 列表（沉浸背景） |
-| `app/page.tsx` | 应用入口，挂载原型 |
-
----
-
-## 7. 许可与说明
+## 4. 许可与说明
 
 本项目为**内部 / 演示用原型**。数据与第三方面孔、地名等均为演示用途，不代表真实服务承诺。
 
