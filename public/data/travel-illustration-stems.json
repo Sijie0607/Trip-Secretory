@@ -1,0 +1,32 @@
+{
+  "base": "https://raw.githubusercontent.com/Sijie0607/wanderlust-weaver/main/public/travel-illustrations",
+  "webpUrlPattern": "https://raw.githubusercontent.com/Sijie0607/wanderlust-weaver/main/public/travel-illustrations/{stem}.webp",
+  "pngUrlPattern": "https://raw.githubusercontent.com/Sijie0607/wanderlust-weaver/main/public/travel-illustrations/{stem}.png",
+  "stems": [
+    "ancient_town",
+    "artsy_checkin",
+    "beach",
+    "cafe",
+    "china",
+    "city_explore",
+    "europe",
+    "food_journey",
+    "hidden_gems",
+    "hiking",
+    "honeymoon",
+    "hot_spring",
+    "island_vacation",
+    "japan_korea",
+    "museum",
+    "night_market",
+    "north_america",
+    "outdoor_adventure",
+    "photography",
+    "shopping",
+    "show",
+    "southeast_asia",
+    "temple"
+  ],
+  "generatedAt": "2026-04-03",
+  "verifiedAncientTownPng": "HTTP 200 via raw.githubusercontent.com"
+}
