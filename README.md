@@ -1,6 +1,6 @@
 # Trip Open · 旅行盲盒原型
 
-面向「不确定去哪儿、又想有一点惊喜」的年轻人，用**地图广场 → 偏好与区域 → 盲盒揭晓 → 结果页（安全 / 行程 / 社交刷新点）→ 预订**串联一条完整动线。本仓库是 Next.js 可交互原型，用于**产品演示、可用性走查与录屏素材**。
+面向「在忙碌的daily life中想换个地方探索、又缺少决策的时间」的年轻人，用**地图广场 → 偏好与区域 → 盲盒揭晓 → 结果页（安全 / 行程 / 社交刷新点）→ 预订**串联一条完整动线。本仓库是 Next.js 可交互原型，用于**产品演示、可用性走查与录屏素材**。
 
 ---
 
@@ -42,7 +42,8 @@ flowchart LR
 ## 3. 演示 
 
 https://trip-secretory.vercel.app/
-Demo Video
+
+### Demo Video
 
 [Watch the video here](https://github.com/Sijie0607/Trip-Secretory/releases/download/v1.0/Trip.Open.mov)
 ---
