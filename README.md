@@ -42,6 +42,9 @@ flowchart LR
 ## 3. 演示 
 
 https://trip-secretory.vercel.app/
+Demo Video
+
+[Watch the video here](https://github.com/Sijie0607/Trip-Secretory/releases/download/v1.0/Trip.Open.mov)
 ---
 
 
