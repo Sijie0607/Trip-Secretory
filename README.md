@@ -45,8 +45,12 @@ https://trip-secretory.vercel.app/
 
 ### Demo Video
 
-[Watch the video here](https://github.com/Sijie0607/Trip-Secretory/releases/download/v1.0/Trip.Open.mov)
+[Watch the video here]
 ---
+
+https://github.com/user-attachments/assets/f86201c7-cfe1-4a30-a870-4658a8af5835
+
+
 
 
 
